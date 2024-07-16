@@ -4,5 +4,8 @@
 
 Стек
 Navigation - Voyager
+
 DI - Koin
+
 Async - RxJava3
+
